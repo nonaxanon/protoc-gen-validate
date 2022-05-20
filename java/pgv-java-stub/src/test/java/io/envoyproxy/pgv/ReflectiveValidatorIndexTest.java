@@ -1,6 +1,6 @@
-package io.envoyproxy.pgv;
+package io.nonaxanon.pgv;
 
-import io.envoyproxy.pvg.cases.TokenUse;
+import io.nonaxanon.pvg.cases.TokenUse;
 import org.assertj.core.api.AtomicBooleanAssert;
 import org.junit.Test;
 

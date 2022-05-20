@@ -1,4 +1,4 @@
-package io.envoyproxy.pgv;
+package io.nonaxanon.pgv;
 
 import com.google.re2j.Pattern;
 import org.apache.commons.validator.routines.DomainValidator;
